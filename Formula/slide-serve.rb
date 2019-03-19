@@ -4,7 +4,7 @@ class SlideServe < Formula
   homepage "https://www.nu.nl"
   url "https://github.com/mpas/slide-serve/releases/download/v0.1-rc1/slide-serve_0.1-rc1_Darwin_x86_64.tar.gz"
   version "0.1-rc1"
-  sha256 "0924961205e45775bc8caa5ba92c3e21f119c6e1d829f9ca2d5859e260e032e7"
+  sha256 "1e29eb2636906a243987f01d8a861c753bf53c3142dd464ffdc356cce6559ed3"
 
   def install
     bin.install "slide-serve"
