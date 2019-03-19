@@ -4,7 +4,7 @@ class SlideServe < Formula
   homepage "https://github.com/cdreier/slide-serve"
   url "https://github.com/mpas/slide-serve-fork/releases/download/v0.1-rc1/slide-serve_0.1-rc1_Darwin_x86_64.tar.gz"
   version "0.1-rc1"
-  sha256 "6c95ff5a780f686b4c803a574d211935e73ee0e6fdae29fdf46d59e6b4608a56"
+  sha256 "24c82d310e8e04bb7f50ca0685b8348632f1178ab7579cc59c3ade5d720bf24a"
 
   def install
     bin.install "slide-serve"
